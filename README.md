@@ -6,4 +6,4 @@ O projeto é baseado nos dados fornecidos pelo Panorama Legislativo Municipal, d
 
 O arquivo `limpeza.R` tem a função de importar, limpar e transformar os dados empregados na análise, armazenando-os no arquivo `dados.RData`. O arquivo `app.R` fornece o código da aplicação propriamente dita.
 
-A aplicação foi disponibilizada no seguinte link:
+A aplicação foi disponibilizada no seguinte link: https://8ycj7g-douglas-novelli.shinyapps.io/profissionalizao_legislativa_pr/
